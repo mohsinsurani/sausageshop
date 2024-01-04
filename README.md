@@ -1,7 +1,7 @@
 
 # Sausage Shop
 
-Sausage Shop is a cross platform iOS application designed to provide the information on the sausage available on the shop. Built using Dart as the primary language and FlutterUI Material design as the frontend framework, the app offers a user-friendly interface for users to stay informed about the operational status of sausages on the shop.
+Sausage Shop is a Cross Platform iOS application designed to provide the information on the sausage available on the shop. Built using Dart as the primary language and FlutterUI Material design as the frontend framework, the app offers a user-friendly interface for users to stay informed about the operational status of sausages on the shop.
 
 **Key Features:**
 
