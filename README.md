@@ -18,6 +18,8 @@ The app leverages Dart to handle the application logic using BLoC and Flutter wi
 It ensures a seamless user experience, providing critical information at a glance and helping commuters make informed decisions about their sausages.
 
 **Running and tested Version:**
+ - Flutter 3.16.5 • channel stable
+ - Dart 3.2.3 • DevTools 2.28.4
  - XCode 14.2
  - iOS 16.2 deployment target
  - iPhone Landscape and Portrait support
